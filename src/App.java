@@ -14,6 +14,7 @@ public class App {
         Player two = new Player("Shelzy",67);
         Player three = new Player("Nicole",80);
         Player four = new Player("Sophia",99);
+        Player five = new Player("Mae", 101);
 
         /**
          * Display total Players
